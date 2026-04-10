@@ -130,9 +130,7 @@ class LinkedList:
 
         print(" -> ".join(elements) + " -> None")
 
-    # ========================
     # EXTRA FUNCTIONS (BONUS)
-    # ========================
 
     def reverse(self):
         """Reverse the list (O(n))"""
@@ -175,10 +173,7 @@ class LinkedList:
 
         return False
 
-
-# ===========================
 # TEST CASES (VERY IMPORTANT)
-# ===========================
 if __name__ == "__main__":
 
     print("=== TEST CASES ===")
